@@ -158,6 +158,11 @@ main {
   row-gap: 2rem;
   padding: 1rem;
   border-radius: 10px;
+  position: relative;
+}
+.single-section .btn {
+  position: absolute;
+  bottom: 2rem;
 }
 .special {
   color: crimson;
